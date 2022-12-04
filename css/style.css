@@ -60,6 +60,10 @@
   box-sizing: border-box;
 }
 
+::selection {
+    background-color: #86b1e5;
+}
+
 html {
   font-family: sans-serif;
   line-height: 1.15;
